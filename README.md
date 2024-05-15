@@ -10,10 +10,10 @@
   </div>
 
 
-  <strong>Estou em transição de carreira, decidi então mergulhar de cabeça em um novo desafio: me tornar uma Desenvolvedora.
+  <strong>Engenheira Civil em transição de carreira, decidi então mergulhar de cabeça em um novo desafio: me tornar uma Desenvolvedora.
 Estou estudando intensivamente e aprimorando minhas habilidades em linguagens.</strong>
-- 🚀 Atualmente estou estudando: <strong> Análise e Desenvolvimento de Sistemas, além Programação Full Stack.</strong>
-- 💭 As linguagens que estou aprendendo são: <strong>Lógica de Programação com Python, JavaScript, Git, Java, Node.js, MongoDB, React, HTML e CSS </strong> 
+- 🚀 Atualmente estou estudando: <strong> Análise e Desenvolvimento de Sistemas, Front end com Java, Certificação AWS e C#.</strong>
+- 💭 As linguagens que estou aprendendo são: <strong>Lógica de Programação com Python, JavaScript, Git, Java, Node.js, MongoDB, React e C# </strong> 
 - 📣 Nós podemos falar em: <strong>Inglês (para eu praticar o que tenho estudado), além de Português que é minha língua nativa 🥰</strong>
 
 
@@ -27,8 +27,9 @@ Estou estudando intensivamente e aprimorando minhas habilidades em linguagens.</
 
 
   
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/glaucy-ara%C3%BAjo-b97a80b1/)" /></a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucy-ara%C3%BAjo-b97a80b1/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=fffff)](https://github.com/glaucyaraujo)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:glaucyaraujodev@gmail.com)
 
 
 </div>
